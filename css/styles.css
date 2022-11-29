@@ -35,3 +35,7 @@ div#numeros>div>div>button {
 div#numeros>div>div>button:hover {
     background-color: rgb(146, 78, 46);
 }
+
+p#operacion {
+    height: 50px;
+}
